@@ -13,4 +13,7 @@ the board.
 
 IF filtering, amplification and signal processing, along with generation of the 0-10V modulation signal for the VCO, are done on a separate board.
 
+Source files - EDA/CAD information: These are CadSoft EAGLE files. See www.cadsoftusa.com/ for download and licensing information. The "free as in beer" "light" Eagle license is perfectly capable of opening and editing these files - the boards are only two-layer and
+are relatively small. A PDF schematic is provided along with industry-standard fabrication-ready RS274X (Gerber) files.
+
 License information: Open Hardware as per the CERN Open Hardware License; please see license.txt
